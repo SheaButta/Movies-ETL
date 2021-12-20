@@ -15,9 +15,9 @@ A company named Amazing Prime has a dataset which they would like to keep up-to-
  ## Results
  
  To produce some valuable data from this messy ETL process, I had to create four new Jupyter Notebook files.  These files include;
- 1. ETL_function_test.ipynb (Function used to all load dataset files)
- 2. ETL_clean_wiki_movies.ipynb (Cleanse the Movie data)
- 3. ETL_clean_kaggle_data.ipynb (Cleanse the Kaggle data)
+ 1. ETL_function_test.ipynb (Function read all data files)
+ 2. ETL_clean_wiki_movies.ipynb (Code to Extract and Transform Wikipedia data)
+ 3. ETL_clean_kaggle_data.ipynb (Code to Extract and Transform Kaggle data)
  4. ETL_create_database.ipynb (Refactored code to load the extracted and transformed data into a PostgreSQL database)
  
  The ETL process produced the "movies" and "ratings" tables in the "movie_data" database.
