@@ -11,15 +11,6 @@ A company named Amazing Prime has a dataset which they would like to keep up-to-
 - Jupyter Notebook
 - PostgreSQL (A Relational Database Management System)
 - pgAdmin (Interface to interact with PostgreSQL)
-
-- Datasets used for Analysis:
-
-  Kaggle Data: [movies_metadata.csv](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Resources/movies_metadata.csv)
-
-  Ratings Data: [rating.csv](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Resources/ratings.csv)
-
-  Wikipedia Data: [wikipedia-movies.json](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/wikipedia-movies.json)
-
   
  ## Results
  
@@ -32,6 +23,7 @@ A company named Amazing Prime has a dataset which they would like to keep up-to-
  The ETL process produced the "movies" and "ratings" tables in the "movie_data" database.
  
 Movies: 
+
 
 Ratings: 
 
