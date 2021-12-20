@@ -14,13 +14,33 @@ A company named Amazing Prime has a dataset which they would like to keep up-to-
 
 - Datasets used for Analysis:
 
-  Kaggle Data: [movies_metadata.csv](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/employees.csv)
+  Kaggle Data: [movies_metadata.csv](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Resources/movies_metadata.csv)
 
-  Ratings Data: [rating.csv](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/departments.csv)
+  Ratings Data: [rating.csv](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Resources/ratings.csv)
 
-  Wikipedia Data: [wikipedia-movies.json](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/dept_emp.csv)
+  Wikipedia Data: [wikipedia-movies.json](https://github.com/SheaButta/Pewlett-Hackard-Analysis/blob/main/Data/wikipedia-movies.json)
 
   
+ ## Results
  
- ----------------------------
+ To produce some valuable data from this messy ETL process, I had to create four new Jupyter Notebook files.  These files include;
+ 1. ETL_function_test.ipynb (Function used to all load dataset files)
+ 2. ETL_clean_wiki_movies.ipynb (Cleanse the Movie data)
+ 3. ETL_clean_kaggle_data.ipynb (Cleanse the Kaggle data)
+ 4. ETL_create_database.ipynb (Refactored code to load the extracted and transformed data into a PostgreSQL database)
+ 
+ The ETL process produced the "movies" and "ratings" tables in the "movie_data" database.
+ 
+Movies: 
+
+Ratings: 
+
+ 
+ ## Summary
+ 
+ The transformation effort of this ETL process proved to be extremely difficult and messy; however, I was able to produce data that will prove to valueable to Amazing Prime.
+ 
+ 
+ 
+ 
  
