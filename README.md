@@ -22,18 +22,18 @@ A company named Amazing Prime has a dataset which they would like to keep up-to-
  
  The ETL process produced the "movies" and "ratings" tables in the "movie_data" database.
  
-Movies: 
+__Movies:__
 
 ![Total Number of Movies Imported](https://github.com/SheaButta/Movies-ETL/blob/main/Resources/movies_query.png)
 
-Ratings: 
+__Ratings:__
 
 ![Total Number of Ratings Imported](https://github.com/SheaButta/Movies-ETL/blob/main/Resources/ratings_query.png)
 
  
  ## Summary
  
- The transformation effort of this ETL process proved to be extremely difficult and messy; however, I was able to produce data that will prove to valueable to Amazing Prime.
+ The transformation effort of this ETL process proved to be extremely difficult and messy; however, I was able to produce data that will prove to valuable to Amazing Prime.
  
  
  
