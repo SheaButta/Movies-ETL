@@ -24,8 +24,11 @@ A company named Amazing Prime has a dataset which they would like to keep up-to-
  
 Movies: 
 
+![Total Number of Movies Imported](https://github.com/SheaButta/Movies-ETL/blob/main/Resources/movies_query.png)
 
 Ratings: 
+
+![Total Number of Ratings Imported](https://github.com/SheaButta/Movies-ETL/blob/main/Resources/ratings_query.png)
 
  
  ## Summary
